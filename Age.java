@@ -4,8 +4,8 @@ public class Age
   {
     if (args.length == 1)
     {
-      System.out.println("You are ");
-      System.out.println(args[0]);
+      System.out.print("You are ");
+      System.out.print(args[0]);
       System.out.println(" years old.");
     }
   }
